@@ -1,0 +1,25 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+.second{
+	background-color:#565a5f;
+	color:#dfe4e8;
+	padding:10px;
+}
+#tech-1,span{
+	color:#ce2546;
+}
+.navbar{
+	padding:5px;
+}
+.col-6{
+	color:white;
+	background-color:#158e2f;
+	padding:auto;
+}
+
